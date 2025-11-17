@@ -94,4 +94,12 @@ I am aiming to integrate these two research directions to develop data-driven mu
 
 
 # 💻 Peer Reviewer
-Journal: Reliability Engineering and System Safety, Engineering Structures, Engineering Fracture Mechanics, Theoretical and Applied Fracture Mechanics, Engineering Applications of Artificial Intelligence, Journal of Materials Research and Technology, Structural and Health Monitoring, International Journal of Pressure Vessels and Piping, 工程热物理学报 (Journal of Engineering Thermophysics).
+- Reliability Engineering and System Safety
+- Engineering Structures, Engineering Fracture Mechanics
+- Theoretical and Applied Fracture Mechanics
+- Engineering Applications of Artificial Intelligence
+- Journal of Materials Research and Technology
+- Structural and Health Monitorin 
+- International Journal of Pressure Vessels and Piping
+- 工程热物理学报 (Journal of Engineering Thermophysics)
+
