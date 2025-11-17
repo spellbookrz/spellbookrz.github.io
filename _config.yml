@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shuwei Zhou"
-description              : "Ph.D. Candidate in RWTH Aachen university, focus on Fatigue and Fracture Mechanics."
+description              : "Ph.D. Candidate in RWTH Aachen University, focus on Fatigue and Fracture Mechanics."
 repository               : "spellbookrz/spellbookrz.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -46,6 +46,7 @@ author:
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-7801-909X"
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57226158345"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
