@@ -96,6 +96,7 @@ I am aiming to integrate these two research directions to develop data-driven mu
 # 💻 Peer Reviewer
 - Reliability Engineering and System Safety
 - Engineering Structures
+- International Journal of Fatigue
 - Engineering Fracture Mechanics
 - Theoretical and Applied Fracture Mechanics
 - Engineering Applications of Artificial Intelligence
@@ -104,5 +105,6 @@ I am aiming to integrate these two research directions to develop data-driven mu
 - International Journal of Pressure Vessels and Piping
 - International Journal of Cast Metals Research
 - Journal of Central South University 
+- Digital Engineering
 - 工程热物理学报 (Journal of Engineering Thermophysics)
 
